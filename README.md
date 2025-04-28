@@ -14,3 +14,11 @@
 
 - <a href = "https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Trip%20Details.xlsx">Trip Details</a>
 
+## Question KPI's
+
+1.	Total Bookings – How many trips were booked over a given period?
+2.	Total Booking Value – What is the total revenue generated from all bookings?
+3.	Average Booking Value – What is the average revenue per booking?
+4.	Total Trip Distance – What is the total distance covered by all trips?
+5.	Average Trip Distance – How far are customers traveling on average per trip?
+6.	Average Trip Time – What is the average duration of trips?
