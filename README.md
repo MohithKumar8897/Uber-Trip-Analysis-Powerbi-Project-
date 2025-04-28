@@ -22,3 +22,8 @@
 4.	Total Trip Distance – What is the total distance covered by all trips?
 5.	Average Trip Distance – How far are customers traveling on average per trip?
 6.	Average Trip Time – What is the average duration of trips?
+
+# Dashboard Interaction 
+-<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20overview%20Dashboard.png">Overview Dashbaord </a>
+-<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Time%20Analysis.png">Time Analysis Dashboard </a>
+-<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Detailes%20Dashboard.png"> Details Dashboard </a>
