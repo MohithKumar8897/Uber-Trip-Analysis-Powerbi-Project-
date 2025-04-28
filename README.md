@@ -37,7 +37,7 @@
 
 ![Uber Data Analysis Detailes Dashboard](https://github.com/user-attachments/assets/e4316d3c-f81f-4fb0-b2cc-31dc76748e70)
 
-# Insights from my project
+# **Insights from my project**
 
 ## 1. General Overview
 
