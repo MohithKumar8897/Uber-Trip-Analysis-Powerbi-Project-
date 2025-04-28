@@ -25,5 +25,7 @@
 
 # Dashboard Interaction 
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20overview%20Dashboard.png">Overview Dashbaord </a>
+
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Time%20Analysis.png">Time Analysis Dashboard </a>
+
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Detailes%20Dashboard.png"> Details Dashboard </a>
