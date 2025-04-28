@@ -25,9 +25,14 @@
 
 # Dashboard Interaction 
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20overview%20Dashboard.png">Overview Dashbaord </a>
+
 ![Uber Data Analysis overview Dashboard](https://github.com/user-attachments/assets/3ea64fe1-e153-4793-94a5-e13cd489ff8d)
 
 
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Time%20Analysis.png">Time Analysis Dashboard </a>
 
+![Uber Data Analysis Time Analysis](https://github.com/user-attachments/assets/c1519337-a15b-4cf6-9381-99c47028e285)
+
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Detailes%20Dashboard.png"> Details Dashboard </a>
+
+![Uber Data Analysis Detailes Dashboard](https://github.com/user-attachments/assets/e4316d3c-f81f-4fb0-b2cc-31dc76748e70)
