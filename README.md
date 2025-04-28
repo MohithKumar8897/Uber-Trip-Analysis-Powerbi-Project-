@@ -37,9 +37,9 @@
 
 ![Uber Data Analysis Detailes Dashboard](https://github.com/user-attachments/assets/e4316d3c-f81f-4fb0-b2cc-31dc76748e70)
 
-## Insights from my project
+# Insights from my project
 
-# 1. General Overview
+## 1. General Overview
 
 ->Total Bookings: 22.2K trips
 
@@ -55,7 +55,7 @@
 
 ✅ Insight: Uber services during June 2024 had healthy booking volumes and consistent average trip distances and times.
 
-# 2. Payment Type Analysis
+## 2. Payment Type Analysis
 
 ->Most Preferred Payment:
 
@@ -67,7 +67,7 @@
 
 ✅ Insight: Majority of customers preferred digital payments (Uber Pay), suggesting high app engagement.
 
-# 3. Trip Type (Day vs Night)
+## 3. Trip Type (Day vs Night)
 
 ->Day Trips: 57.36% (12.8K trips)
 
@@ -75,19 +75,19 @@
 
 ✅ Insight: Daytime travel was slightly higher, but night trips still form a significant part (~43%) of total trips.
 
-# 4. Pickup and Drop-off Points
+## 4. Pickup and Drop-off Points
 
 ->Most Frequent Pickup Location: LaGuardia Airport
 
 ->Most Frequent Drop-off Location: East Harlem South
 
-# Farthest Trip Recorded:
+## Farthest Trip Recorded:
 
 ->From Lower East Side to Crown Heights North (144.1 miles)
 
 ✅ Insight: Airports and urban residential areas dominate Uber pickups and drop-offs, important for targeting promotions.
 
-# 5. Vehicle Type Analysis
+## 5. Vehicle Type Analysis
 
 ->Top Performing Vehicle: UberX
 
@@ -99,7 +99,7 @@
 
 ✅ Insight: UberX is the most booked vehicle type, balancing affordability and service quality.
 
-# 6. Time Analysis
+## 6. Time Analysis
 
 ->Peak Booking Hours:
 9 AM to 6 PM (highest bookings)
@@ -112,7 +112,7 @@ Mid-week (Wednesday) shows a slight increase too.
 
 ✅ Insight: Weekends and mid-day periods are the busiest times for Uber services.
 
-# 7. Detailed Observations
+## 7. Detailed Observations
 
 ->Booking trends show a steady increase toward the end of the month.
 
