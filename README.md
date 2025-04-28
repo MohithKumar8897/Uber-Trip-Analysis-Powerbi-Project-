@@ -36,3 +36,82 @@
 -<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Detailes%20Dashboard.png"> Details Dashboard </a>
 
 ![Uber Data Analysis Detailes Dashboard](https://github.com/user-attachments/assets/e4316d3c-f81f-4fb0-b2cc-31dc76748e70)
+
+# 1. General Overview
+
+->Total Bookings: 22.2K trips
+
+->Total Booking Value: $579K
+
+->Average Booking Amount: $26
+
+->Total Trip Distance: 156K miles
+
+->Average Trip Distance: 7 miles
+
+->Average Trip Time: 27 minutes
+
+✅ Insight: Uber services during June 2024 had healthy booking volumes and consistent average trip distances and times.
+
+# 2. Payment Type Analysis
+
+->Most Preferred Payment:
+
+->Uber Pay (66% of payments)
+
+->Cash (33%)
+
+->Amazon Pay and Google Pay were negligible.
+
+✅ Insight: Majority of customers preferred digital payments (Uber Pay), suggesting high app engagement.
+
+# 3. Trip Type (Day vs Night)
+
+->Day Trips: 57.36% (12.8K trips)
+
+->Night Trips: 42.64% (9.5K trips)
+
+✅ Insight: Daytime travel was slightly higher, but night trips still form a significant part (~43%) of total trips.
+
+# 4. Pickup and Drop-off Points
+
+->Most Frequent Pickup Location: LaGuardia Airport
+
+->Most Frequent Drop-off Location: East Harlem South
+
+# Farthest Trip Recorded:
+
+->From Lower East Side to Crown Heights North (144.1 miles)
+
+✅ Insight: Airports and urban residential areas dominate Uber pickups and drop-offs, important for targeting promotions.
+
+# 5. Vehicle Type Analysis
+
+->Top Performing Vehicle: UberX
+
+->Total Bookings: 8,267
+
+->Total Booking Value: $217,593
+
+->Other popular types: Uber Comfort, UberXL, Uber Green, Uber Black.
+
+✅ Insight: UberX is the most booked vehicle type, balancing affordability and service quality.
+
+# 6. Time Analysis
+
+->Peak Booking Hours:
+9 AM to 6 PM (highest bookings)
+
+->Most Active Days:
+
+Saturday and Sunday show the highest trip distances.
+
+Mid-week (Wednesday) shows a slight increase too.
+
+✅ Insight: Weekends and mid-day periods are the busiest times for Uber services.
+
+7. Detailed Observations
+
+->Booking trends show a steady increase toward the end of the month.
+
+->Total trip distance spikes on Saturdays and Sundays, indicating leisure or long-distance travel on weekends.
