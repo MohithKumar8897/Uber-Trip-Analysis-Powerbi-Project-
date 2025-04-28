@@ -10,10 +10,7 @@
 
 # Datasets used
 
-Location Table dataset
-https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Location%20Table.xlsx
+- <a href = "https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Location%20Table.xlsx">Location Table dataset</a>
 
-Trip Detailes
-https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Trip%20Details.xlsx
-
+- <a href = "https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Trip%20Details.xlsx">Trip Details</a>
 
