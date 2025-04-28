@@ -110,7 +110,7 @@ Mid-week (Wednesday) shows a slight increase too.
 
 ✅ Insight: Weekends and mid-day periods are the busiest times for Uber services.
 
-7. Detailed Observations
+# 7. Detailed Observations
 
 ->Booking trends show a steady increase toward the end of the month.
 
